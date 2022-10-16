@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (HW1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Coordinate.c
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(11,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(12,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(13,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(15,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(16,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ana75\source\githubprojects\HW\HW\HW1\Coordinate.c(18,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  HW1.vcxproj -> C:\Users\ana75\source\githubprojects\HW\HW\x64\Debug\coordinate.exe
